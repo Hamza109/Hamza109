@@ -1,7 +1,7 @@
 ## Hey 👋, This is Hamza Hamal
 [![Gmail Badge](https://img.shields.io/badge/-hamalhamza@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hamalhamza@gmail.com)](mailto:hamalhamza@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-HamzaHamal-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/HamzaHamal/)](https://www.linkedin.com/in/HamzaHamal/) 
- [![Github Badge](https://img.shields.io/badge/-Hamza109-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hamza109/)](https://www.github.com/Hamza109/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://hamza109.github.io/hamza.github.io//)](https://hamza109.github.io/hamza.github.io//) <p align='left'>I am a graduate student from Lovely Professional University. I am a Software Engineer , web and mobile developer. I am currently working on web app https://all-cures.com. And also developing mobile app for all-cures.</p>
+ [![Github Badge](https://img.shields.io/badge/-Hamza109-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hamza109/)](https://www.github.com/Hamza109/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://hamza109.github.io/hamza.github.io//)](https://hamza-hamal.netlify.app/) <p align='left'>I am a graduate student from Lovely Professional University. I am a Software Engineer , web and mobile developer. I am currently working on web app https://all-cures.com. And also developing mobile app for all-cures.</p>
 
 <h3 align="center">We don't fail when we lose, we fail when we quit.</h3>
 
