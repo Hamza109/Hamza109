@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hamza109](https://github.com/Hamza109)
 
-- 💬 Ask me about [**C, C++,JavaScript, ML, Web development (Front-end), UI**](#)
+- 💬 Ask me about [**C, C++,JavaScript,React Native, React,Node,Wordpress,HTML,CSS**](#)
 
 - 📫 How to reach me **hamalhamza@gmail.com**
 
