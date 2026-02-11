@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-hamalhamza@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hamalhamza@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-HamzaHamal-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/HamzaHamal/)
 [![GitHub Badge](https://img.shields.io/badge/-Hamza109-grey?style=flat&logo=github&logoColor=white)](https://github.com/Hamza109)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Web-blue?style=flat)](https://hamza-hamal.netlify.app/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Web-blue?style=flat)](https://hamza-hamal.vercel.app/)
 
 ---
 
